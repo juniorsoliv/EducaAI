@@ -1,0 +1,191 @@
+[
+  {
+    "consulta_original": "minha avó quer aprender a usar o celular, por onde começar?",
+    "consulta_simplificada": "minha avó quer aprender a usar o celular, por onde começar?",
+    "topico_previsto": "inclusao_digital",
+    "confianca_topico": 0.6127,
+    "nivel_usuario": 1,
+    "recomendacoes": [
+      {
+        "id": 12,
+        "titulo": "Navegando com segurança na internet",
+        "categoria": "inclusao_digital",
+        "nivel": 1,
+        "descricao": "Como identificar golpes, proteger dados pessoais e usar redes sociais com consciência.",
+        "url": "https://cartilha.cert.br/fasciculos/",
+        "score": 0.2178
+      },
+      {
+        "id": 10,
+        "titulo": "Alfabetização digital para adultos",
+        "categoria": "inclusao_digital",
+        "nivel": 1,
+        "descricao": "Introdução ao uso de computadores, smartphones, e-mail e serviços digitais do governo.",
+        "url": "https://www.gov.br/mcom/pt-br",
+        "score": 0.0
+      },
+      {
+        "id": 11,
+        "titulo": "Tecnologias assistivas e acessibilidade",
+        "categoria": "inclusao_digital",
+        "nivel": 2,
+        "descricao": "Leitores de tela, legendagem automática, reconhecimento de voz e diretrizes WCAG para web.",
+        "url": "https://www.w3.org/WAI/fundamentals/accessibility-intro/pt-br",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "consulta_original": "o que é inteligência artificial e como funciona na prática?",
+    "consulta_simplificada": "o que é inteligência artificial e como funciona na prática?",
+    "topico_previsto": "inteligencia_artificial",
+    "confianca_topico": 0.6545,
+    "nivel_usuario": 1,
+    "recomendacoes": [
+      {
+        "id": 7,
+        "titulo": "Introdução à Inteligência Artificial",
+        "categoria": "inteligencia_artificial",
+        "nivel": 1,
+        "descricao": "Conceitos de IA, aprendizado de máquina, redes neurais e aplicações práticas em linguagem acessível.",
+        "url": "https://www.ibm.com/br-pt/topics/artificial-intelligence",
+        "score": 0.2661
+      },
+      {
+        "id": 9,
+        "titulo": "Ética e viés em Inteligência Artificial",
+        "categoria": "inteligencia_artificial",
+        "nivel": 3,
+        "descricao": "Discussão sobre vieses algorítmicos, explicabilidade, privacidade e regulação de sistemas de IA.",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000380455",
+        "score": 0.1581
+      },
+      {
+        "id": 8,
+        "titulo": "Aprendizado de máquina com scikit-learn",
+        "categoria": "inteligencia_artificial",
+        "nivel": 2,
+        "descricao": "Pipelines, vetorização de texto com TF-IDF, classificadores Naive Bayes, SVM e avaliação de modelos.",
+        "url": "https://scikit-learn.org/stable/",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "consulta_original": "como proteger minha conta de email contra phishing?",
+    "consulta_simplificada": "como proteger minha conta de email contra golpe por mensagem falsa?",
+    "topico_previsto": "seguranca",
+    "confianca_topico": 0.7215,
+    "nivel_usuario": 2,
+    "recomendacoes": [
+      {
+        "id": 5,
+        "titulo": "Segurança digital para leigos",
+        "categoria": "seguranca",
+        "nivel": 1,
+        "descricao": "Boas práticas de senhas, autenticação em duas etapas, phishing e proteção de dados pessoais.",
+        "url": "https://cartilha.cert.br/",
+        "score": 0.1492
+      },
+      {
+        "id": 6,
+        "titulo": "Lei Geral de Proteção de Dados (LGPD) na prática",
+        "categoria": "seguranca",
+        "nivel": 2,
+        "descricao": "Princípios, bases legais, direitos dos titulares e adequação organizacional à LGPD.",
+        "url": "https://www.gov.br/anpd/",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "consulta_original": "qual a diferença entre uma lista e uma tupla em python?",
+    "consulta_simplificada": "qual a diferença entre uma lista e uma tupla em python?",
+    "topico_previsto": "programacao",
+    "confianca_topico": 0.7673,
+    "nivel_usuario": 2,
+    "recomendacoes": [
+      {
+        "id": 1,
+        "titulo": "Introdução ao Python para iniciantes",
+        "categoria": "programacao",
+        "nivel": 1,
+        "descricao": "Curso passo a passo sobre variáveis, tipos, entrada e saída e estruturas de decisão em Python.",
+        "url": "https://cursoemvideo.com/curso/python/",
+        "score": 0.3759
+      },
+      {
+        "id": 2,
+        "titulo": "Estruturas de dados em Java",
+        "categoria": "programacao",
+        "nivel": 2,
+        "descricao": "Listas, pilhas, filas, árvores e tabelas hash aplicadas à linguagem Java.",
+        "url": "https://cursoemvideo.com/curso/java/",
+        "score": 0.0
+      },
+      {
+        "id": 3,
+        "titulo": "Algoritmos e lógica de programação",
+        "categoria": "programacao",
+        "nivel": 1,
+        "descricao": "Fundamentos de lógica, condicionais, laços e funções com exercícios progressivos.",
+        "url": "https://cursoemvideo.com/curso/logica/",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "consulta_original": "como funciona o protocolo tcp ip em uma rede local?",
+    "consulta_simplificada": "como funciona o protocolo regras que os computadores usam para conversar na internet em uma rede local?",
+    "topico_previsto": "redes",
+    "confianca_topico": 0.8044,
+    "nivel_usuario": 2,
+    "recomendacoes": [
+      {
+        "id": 4,
+        "titulo": "Fundamentos de redes de computadores",
+        "categoria": "redes",
+        "nivel": 1,
+        "descricao": "Modelo TCP/IP, endereçamento IP, DNS, HTTP, HTTPS e conceitos básicos de segurança de rede.",
+        "url": "https://www.cisco.com/c/pt_br/training-events/netacad.html",
+        "score": 0.4614
+      }
+    ]
+  },
+  {
+    "consulta_original": "o que é viés algorítmico em sistemas de aprendizado de máquina?",
+    "consulta_simplificada": "o que é viés algorítmico em sistemas de aprendizado de máquina?",
+    "topico_previsto": "inteligencia_artificial",
+    "confianca_topico": 0.7739,
+    "nivel_usuario": 3,
+    "recomendacoes": [
+      {
+        "id": 7,
+        "titulo": "Introdução à Inteligência Artificial",
+        "categoria": "inteligencia_artificial",
+        "nivel": 1,
+        "descricao": "Conceitos de IA, aprendizado de máquina, redes neurais e aplicações práticas em linguagem acessível.",
+        "url": "https://www.ibm.com/br-pt/topics/artificial-intelligence",
+        "score": 0.2324
+      },
+      {
+        "id": 9,
+        "titulo": "Ética e viés em Inteligência Artificial",
+        "categoria": "inteligencia_artificial",
+        "nivel": 3,
+        "descricao": "Discussão sobre vieses algorítmicos, explicabilidade, privacidade e regulação de sistemas de IA.",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000380455",
+        "score": 0.208
+      },
+      {
+        "id": 8,
+        "titulo": "Aprendizado de máquina com scikit-learn",
+        "categoria": "inteligencia_artificial",
+        "nivel": 2,
+        "descricao": "Pipelines, vetorização de texto com TF-IDF, classificadores Naive Bayes, SVM e avaliação de modelos.",
+        "url": "https://scikit-learn.org/stable/",
+        "score": 0.203
+      }
+    ]
+  }
+]

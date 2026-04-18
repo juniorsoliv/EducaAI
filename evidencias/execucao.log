@@ -1,0 +1,58 @@
+==============================================================================
+Consulta: minha avó quer aprender a usar o celular, por onde começar?
+Nível do usuário: 1
+Consulta simplificada: minha avó quer aprender a usar o celular, por onde começar?
+Tópico previsto: inclusao_digital (confiança=61.27%)
+Recomendações:
+  - [1] Navegando com segurança na internet (score=0.218) -> https://cartilha.cert.br/fasciculos/
+  - [1] Alfabetização digital para adultos (score=0.000) -> https://www.gov.br/mcom/pt-br
+  - [2] Tecnologias assistivas e acessibilidade (score=0.000) -> https://www.w3.org/WAI/fundamentals/accessibility-intro/pt-br
+
+==============================================================================
+Consulta: o que é inteligência artificial e como funciona na prática?
+Nível do usuário: 1
+Consulta simplificada: o que é inteligência artificial e como funciona na prática?
+Tópico previsto: inteligencia_artificial (confiança=65.45%)
+Recomendações:
+  - [1] Introdução à Inteligência Artificial (score=0.266) -> https://www.ibm.com/br-pt/topics/artificial-intelligence
+  - [3] Ética e viés em Inteligência Artificial (score=0.158) -> https://unesdoc.unesco.org/ark:/48223/pf0000380455
+  - [2] Aprendizado de máquina com scikit-learn (score=0.000) -> https://scikit-learn.org/stable/
+
+==============================================================================
+Consulta: como proteger minha conta de email contra phishing?
+Nível do usuário: 2
+Consulta simplificada: como proteger minha conta de email contra golpe por mensagem falsa?
+Tópico previsto: seguranca (confiança=72.15%)
+Recomendações:
+  - [1] Segurança digital para leigos (score=0.149) -> https://cartilha.cert.br/
+  - [2] Lei Geral de Proteção de Dados (LGPD) na prática (score=0.000) -> https://www.gov.br/anpd/
+
+==============================================================================
+Consulta: qual a diferença entre uma lista e uma tupla em python?
+Nível do usuário: 2
+Consulta simplificada: qual a diferença entre uma lista e uma tupla em python?
+Tópico previsto: programacao (confiança=76.73%)
+Recomendações:
+  - [1] Introdução ao Python para iniciantes (score=0.376) -> https://cursoemvideo.com/curso/python/
+  - [2] Estruturas de dados em Java (score=0.000) -> https://cursoemvideo.com/curso/java/
+  - [1] Algoritmos e lógica de programação (score=0.000) -> https://cursoemvideo.com/curso/logica/
+
+==============================================================================
+Consulta: como funciona o protocolo tcp ip em uma rede local?
+Nível do usuário: 2
+Consulta simplificada: como funciona o protocolo regras que os computadores usam para conversar na internet em uma rede local?
+Tópico previsto: redes (confiança=80.44%)
+Recomendações:
+  - [1] Fundamentos de redes de computadores (score=0.461) -> https://www.cisco.com/c/pt_br/training-events/netacad.html
+
+==============================================================================
+Consulta: o que é viés algorítmico em sistemas de aprendizado de máquina?
+Nível do usuário: 3
+Consulta simplificada: o que é viés algorítmico em sistemas de aprendizado de máquina?
+Tópico previsto: inteligencia_artificial (confiança=77.39%)
+Recomendações:
+  - [1] Introdução à Inteligência Artificial (score=0.232) -> https://www.ibm.com/br-pt/topics/artificial-intelligence
+  - [3] Ética e viés em Inteligência Artificial (score=0.208) -> https://unesdoc.unesco.org/ark:/48223/pf0000380455
+  - [2] Aprendizado de máquina com scikit-learn (score=0.203) -> https://scikit-learn.org/stable/
+
+Relatório salvo em: /home/ubuntu/tcc_marcos/evidencias/resultados.json

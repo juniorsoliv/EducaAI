@@ -1,0 +1,162 @@
+{
+  "validacao_cruzada": {
+    "folds": 5,
+    "acuracia_media": 0.5,
+    "desvio_padrao": 0.08606629658238703,
+    "acuracia_por_fold": [
+      0.5,
+      0.6666666666666666,
+      0.4444444444444444,
+      0.4444444444444444,
+      0.4444444444444444
+    ]
+  },
+  "teste_externo": {
+    "acuracia": 1.0,
+    "matriz_confusao": {
+      "labels": [
+        "inclusao_digital",
+        "inteligencia_artificial",
+        "programacao",
+        "redes",
+        "seguranca"
+      ],
+      "matriz": [
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      ]
+    },
+    "relatorio": {
+      "inclusao_digital": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "inteligencia_artificial": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "programacao": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "redes": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "seguranca": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      }
+    },
+    "previsoes": [
+      {
+        "texto": "como faço para criar uma função em python",
+        "esperado": "programacao",
+        "previsto": "programacao"
+      },
+      {
+        "texto": "o que é orientação a objetos",
+        "esperado": "programacao",
+        "previsto": "programacao"
+      },
+      {
+        "texto": "como descobrir o endereço ip do meu computador",
+        "esperado": "redes",
+        "previsto": "redes"
+      },
+      {
+        "texto": "o que é um protocolo seguro na internet",
+        "esperado": "redes",
+        "previsto": "redes"
+      },
+      {
+        "texto": "como evitar cair em golpes de phishing",
+        "esperado": "seguranca",
+        "previsto": "seguranca"
+      },
+      {
+        "texto": "meus dados pessoais estão protegidos pela lgpd",
+        "esperado": "seguranca",
+        "previsto": "seguranca"
+      },
+      {
+        "texto": "o que é aprendizado de máquina supervisionado",
+        "esperado": "inteligencia_artificial",
+        "previsto": "inteligencia_artificial"
+      },
+      {
+        "texto": "como funciona uma rede neural artificial",
+        "esperado": "inteligencia_artificial",
+        "previsto": "inteligencia_artificial"
+      },
+      {
+        "texto": "minha mãe está aprendendo a usar o whatsapp",
+        "esperado": "inclusao_digital",
+        "previsto": "inclusao_digital"
+      },
+      {
+        "texto": "como aumentar a letra no celular dos idosos",
+        "esperado": "inclusao_digital",
+        "previsto": "inclusao_digital"
+      }
+    ]
+  }
+}
+
+Avaliação salva em: /home/ubuntu/tcc_marcos/evidencias/avaliacao.json
